@@ -17,4 +17,3 @@ def unique_character_no_built_in(s):
 
 
 print(unique_character_no_built_in("abcsss"))
-g
