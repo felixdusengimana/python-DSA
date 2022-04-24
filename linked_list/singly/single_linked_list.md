@@ -8,3 +8,10 @@ sequence node.
 
 Head: identifies first node
 Tail: reference to node, indicates that it is the last.
+
+Operation on Linked list:
+- Insertion
+- Deletion
+- Traversal
+- Find
+- Update
