@@ -15,4 +15,4 @@ def prev_fibonacci(n: int):
         return -1
 
 
-print(prev_fibonacci(233))
+print(prev_fibonacci(377))
